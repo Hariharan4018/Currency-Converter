@@ -32,8 +32,7 @@ The Currency Converter is a lightweight application designed to help users conve
    ```  
 
 3. Open the `index.html` file in your browser or start a local server if using Node.js.  
- 
-   ```  
+
 
 ## Usage  
 1. Select the currencies to convert (e.g., USD to EUR).  
